@@ -28,12 +28,12 @@ To run this example, you'll need a modern web browser with JavaScript enabled.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Telegram-Mini-Apps-Dev/vanilla-js-boilerplate
+   git clone https://github.com/SopeDapo/sope_tma.git
 
 2. Navigate to the project directory:
 
 	```bash
-	cd vanilla-js-boilerplate
+	cd sope_tma
 
 Open index.html in your preferred code editor or IDE.
 
